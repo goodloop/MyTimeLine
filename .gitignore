@@ -11,6 +11,7 @@
 # generated files
 bin/
 gen/
+out/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -21,3 +22,6 @@ local.properties
 
 # Android studio project file
 .idea/
+
+# mac os meta files
+.DS_Store
